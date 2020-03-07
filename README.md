@@ -12,4 +12,4 @@
 ## how to run
 1. `MacroMaker.bat` and `MacroMaker.py` in same folder and run .bat file
 2. do some actions for macro :)
-3. run `run.py`
+3. run `run.bat` file
