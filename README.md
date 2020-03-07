@@ -5,7 +5,7 @@
 2. `pip install wxpython`
 3. Korean lang :)
 
-## avaiable function
+## available function
 1. mouse left button
 2. typing string
 
