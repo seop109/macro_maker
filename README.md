@@ -3,7 +3,7 @@
 ## prerequisite
 1. install python for windows (3.x)
 2. `pip install wxpython`
-3. Korean
+3. Korean lang :)
 
 ## avaiable function
 1. mouse left button
